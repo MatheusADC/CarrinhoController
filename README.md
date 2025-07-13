@@ -23,7 +23,7 @@ npx expo start
 ### Gerar o arquivo .apk de release
 ```
 $env:JAVA_HOME = "caminho_do_java_jdk"
-$env:ANDROID_HOME = "caminho_do_android_jdk"
+$env:ANDROID_HOME = "caminho_do_android_sdk"
 cd android
 .\gradlew assembleRelease
 ```
