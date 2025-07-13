@@ -29,4 +29,4 @@ cd android
 ```
 
 # <sub><img src="https://github.com/user-attachments/assets/ac29de52-9cd6-4963-8b6a-b329e339622a" alt="Ícone de carrinho de controle remoto" width="36"></sub> Projeto do Carrinho
-[Clique aqui](https://github.com/MatheusADC/RobGol/edit/main/README.md)
+[Clique aqui](https://github.com/MatheusADC/RobGol)
